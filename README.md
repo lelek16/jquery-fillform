@@ -13,6 +13,8 @@ Auto fill form, base on input types
    $('form').fillForm(); 
 </script>
 ```
+
+
 ### 3. Options
 #### all
 `all` fill all input, or only required (base on required attribute)
