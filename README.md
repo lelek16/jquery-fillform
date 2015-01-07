@@ -17,7 +17,7 @@ Auto fill form, base on input types
 
 ### 3. Options
 #### all
-`all` fill all input, or only required (base on required attribute)
+`all` fill all input, or only required (base on required attribute) - true/false
 #### custom
 `custom` define your own values for input type
 #### onStart
@@ -26,6 +26,8 @@ Auto fill form, base on input types
 `onChange` before change every value
 #### onEnd
 `onEnd` after all
+#### autoSubmit
+`onEnd` auto submit form after fill
 
 ##License
 MIT
